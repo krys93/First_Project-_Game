@@ -14,7 +14,7 @@ if int(age) >= 16:
         left_or_right = input("First choice... Left or Right (left/right)? ")
         if left_or_right == "left":
             ans = input("Nice, you follow the path an reach a lake... Do you swim across or go around (across/around)? ")
-
+ik is a rat
         else:
             print("You fell down and lost...")
                 
